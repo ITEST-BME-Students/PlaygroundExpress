@@ -5,7 +5,6 @@ For these exercises, feel free to refer to any online documentation you can find
 Each exercise comes with an example solution. However, please try to find a solution for yourself before looking at the provided solution.
 
 ## Exercise 1:  the right touch
-
  
  The copper pads labeled A1-A6 on the edge of the PGE can be used as a capacitive touchpad (See image below). For this exercise, program the PGE such that the LED closest to pads A1 and A6 light up if A1 or A6 are touched. The LEDs should be switched off if you let go of the pads. 
  
@@ -20,7 +19,6 @@ Each exercise comes with an example solution. However, please try to find a solu
 ![](https://cdn-learn.adafruit.com/assets/assets/000/040/971/medium800/circuit_playground_neoorder.jpg?1492800157) 
 
 **Solution: example code can be found here: [https://github.com/ITEST-BME-Students/PlaygroundExpress/blob/main/PG_light_and_touch.py](https://github.com/ITEST-BME-Students/PlaygroundExpress/blob/main/PG_light_and_touch.py)**
-
 
 ## Exercise 2:  shake warning
 
